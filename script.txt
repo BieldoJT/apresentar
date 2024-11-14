@@ -1,0 +1,17 @@
+falar de criar as telas
+
+falar dse looping
+
+falar de por strings e imagens
+
+falar dos hooks com alguns exemplos de cliques de botoes e mouses
+
+mostrar algumas relações de hooks com as stings ou imagens
+
+
+falar de funções uteis!! como o de limpar a janela.
+
+brincar
+
+///compilar
+run minilibx-linux/libmlx_Linux.a servidor.c -Lminilibx-linux -lmlx_Linux -lX11 -lXext
